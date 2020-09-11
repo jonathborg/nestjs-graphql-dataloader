@@ -1,5 +1,5 @@
 {
-  "name": "nestjs-graphql-dataloader",
+  "name": "@jonathborg/nestjs-dataloader",
   "version": "0.1.28",
   "private": false,
   "description": "NestJS GraphQL Dataloader",
